@@ -1,11 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 I am currently a first-year Master's student at the Gaoling School of Artificial Intelligence, Renmin University of China, under the supervision of Professor Xu Chen. 
 My research focuses on LLM-based agents, exploring their applications and advancements in AI-driven systems. 
 I earned my Bachelor's degree from the same institution, where I developed a strong foundation in artificial intelligence and machine learning. 
