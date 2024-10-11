@@ -12,7 +12,7 @@ title                    : "Haoran Tan/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Haoran Tan"
 description              : &description "a first-year master student from GSAI, Renmin university of China"
-url                      : https://import-myself.github.io
+url                      : https://import-myself.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "import-myself/import-myself.github.io"
 
